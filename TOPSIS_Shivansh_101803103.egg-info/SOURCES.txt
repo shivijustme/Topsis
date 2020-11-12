@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+TOPSIS-Shivansh-101803103/__init__.py
+TOPSIS-Shivansh-101803103/topsis.py
+TOPSIS_Shivansh_101803103.egg-info/PKG-INFO
+TOPSIS_Shivansh_101803103.egg-info/SOURCES.txt
+TOPSIS_Shivansh_101803103.egg-info/dependency_links.txt
+TOPSIS_Shivansh_101803103.egg-info/top_level.txt
